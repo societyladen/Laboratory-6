@@ -41,7 +41,5 @@
 
         LineSegment copy = new LineSegment(s1);
         Console.WriteLine($"Конструктор копирования: {copy}");
-
-        Console.WriteLine("\n=== Все тесты завершены ===");
     }
 }
