@@ -35,6 +35,8 @@
 
 
 
+<img width="862" height="692" alt="Снимок экрана 2026-04-16 235455" src="https://github.com/user-attachments/assets/649d3180-16c8-4a49-8a31-7b28092829b3" />
+
 
 
 
@@ -94,6 +96,7 @@ double(явная) – результатом является координа�
 
 
 
+<img width="862" height="692" alt="Снимок экрана 2026-04-16 235455" src="https://github.com/user-attachments/assets/d4576764-a27c-4954-8c1d-e8e11ec279b0" />
 
 
 
