@@ -58,7 +58,5 @@
         NamedPet namedPet3 = new NamedPet(name2, age2);
         Console.WriteLine($"Результат: {namedPet3}");
         Console.WriteLine(namedPet3.IsDangerousForChild());
-
-        Console.WriteLine("\n=== Все тесты завершены ===");
     }
 }
